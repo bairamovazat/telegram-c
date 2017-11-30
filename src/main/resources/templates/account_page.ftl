@@ -13,6 +13,7 @@
                 <p><input type="submit" class="button"></p>
             </div>
         </div>
+        <p><a href="/">Домой</a></p>
     </center>
 </form>
 </body>
