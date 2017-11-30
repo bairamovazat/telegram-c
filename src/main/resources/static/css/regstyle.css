@@ -1,0 +1,78 @@
+html{
+    background-color: rgb(225,225,225);
+}
+
+#table {
+    border: 2px black;
+    width:100%;
+}
+.table {
+    border: 2px black;
+    border-spacing: 10px;
+}
+#container {
+    top: 50px;
+    width: 550px;
+    margin-top: 30px;
+    text-align: left;
+    background: white;
+    border: rgba(13,0,76,.3) 3px solid;
+    border-radius: 7px;
+    color: rgb(13,0,76);
+}
+
+#container h1 {
+    padding-left: 50px;
+    margin-top: 50px;
+    font-size: 48px;
+    font-family: 'HelveticaNeueCyr Medium', 'Code Pro', 'Arial' ,Arial, sans-serif;
+}
+
+p {
+    padding-left: 50px;
+    font-size: 18px;
+    font-family: 'HelveticaNeueCyr', 'Code Pro', 'Arial' ,Arial, sans-serif;
+}
+
+p.label{
+    font-size: 24px;
+    font-family: 'HelveticaNeueCyr Medium', 'Code Pro', 'Arial' ,Arial, sans-serif;
+}
+
+.label{
+    font-size: 24px;
+    font-family: 'HelveticaNeueCyr Medium', 'Code Pro', 'Arial' ,Arial, sans-serif;
+}
+
+.form{
+    height: 40px;
+    width: 400px;
+    box-sizing: border-box;
+    font-family: 'HelveticaNeueCyr', 'Code Pro', 'Arial' ,Arial, sans-serif;
+    font-size: 18px;
+    padding: 10px;
+    box-shadow: 0 0 5px rgba(13,0,76,0.5);
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border: none;
+    color: #0D004C;
+    border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    font-family: 'HelveticaNeueCyr', 'Code Pro', 'Arial' ,Arial, sans-serif;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    padding: 10px 40px;
+    background-color: #0072bc;
+}
+
+.button:hover {
+    border: none;
+    color: #0D004C;
+    background-color: #00BFF3;
+}
