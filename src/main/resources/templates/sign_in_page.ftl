@@ -12,7 +12,7 @@
                 <p><input type="text" placeholder="Введите текст из смс" name="smsCode" class="form"></p>
                 <p><input type="submit" class="button"></p>
                 <br>
-                <p><a href="/accounts">Добавить другой аккаунт</a></p>
+                <p><a href="/">Домой</a></p>
             </div>
         </div>
     </center>

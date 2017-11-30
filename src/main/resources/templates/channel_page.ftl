@@ -23,6 +23,7 @@
                 <p><input type="text" name="channelName" placeholder="Введите название канала, на который хотите подписаться" class="label"></p>
                 <p><input type="submit" class="button"></p>
             </div>
+            <p><a href="/">Домой</a></p>
         </div>
     </center>
 </form>
