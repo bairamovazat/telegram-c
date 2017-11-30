@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="584e0418-526b-4eef-9081-3412322bdd9d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/bot_page.ftl" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/account_success.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/account_success.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/api_reset.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/api_reset.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/channel_add.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/channel_add.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/channel_page.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/channel_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/error_page.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/error_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/sign_in_page.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/sign_in_page.ftl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/sign_up_page.ftl" afterPath="$PROJECT_DIR$/src/main/resources/templates/sign_up_page.ftl" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -118,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="account_success.ftl" pinned="false" current-in-tab="false">
+      <file leaf-file-name="account_success.ftl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/account_success.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="51">
+              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -248,10 +239,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/sign_in_page.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/error_page.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/channel_page.ftl" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/account_success.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/channel_add.ftl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/api_reset.ftl" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/account_success.ftl" />
       </list>
     </option>
   </component>
@@ -502,12 +493,12 @@
       <workItem from="1511881643359" duration="13270000" />
       <workItem from="1511947792511" duration="14874000" />
       <workItem from="1512045257002" duration="13502000" />
-      <workItem from="1512059934343" duration="9546000" />
+      <workItem from="1512059934343" duration="10160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66742000" />
+    <option name="totallyTimeSpent" value="67356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="11" width="1280" height="984" extended-state="0" />
@@ -922,14 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/account_success.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/account_page.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -958,6 +941,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/account_success.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
           <folding />
         </state>
       </provider>
