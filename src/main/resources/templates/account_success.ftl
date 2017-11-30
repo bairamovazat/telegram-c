@@ -1,7 +1,7 @@
 <#ftl encoding = 'UTF-8'>
 <#import "spring.ftl" as spring/>
 <@spring.bind "model"/>
-
+<#include "header.ftl">
 <body>
 <center>
     <div id="container">
