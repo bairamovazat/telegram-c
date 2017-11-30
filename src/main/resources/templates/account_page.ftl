@@ -11,9 +11,9 @@
                 <p class="label">Ведите телефон:</p>
                 <p><input type="text" placeholder="Телефон" name="phone" class="form"></p>
                 <p><input type="submit" class="button"></p>
+                <p><a href="/">Домой</a></p>
             </div>
         </div>
-        <p><a href="/">Домой</a></p>
     </center>
 </form>
 </body>
