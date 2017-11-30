@@ -3,7 +3,12 @@
 <@spring.bind "model"/>
 
 <body>
-<h2>Аккаун добавлен</h2>
-<br>
-<a href="/accounts">Добавить другой аккаунт</a>
+<center>
+    <div id="container">
+        <div id="login container">
+            <h1>Аккаун добавлен</h1>
+            <p><a href="/">Домой</a></p>
+        </div>
+    </div>
+
 </body>
