@@ -38,6 +38,7 @@ public class ChanelServiceImpl implements ChanelService {
         TelegramBot bot = new TelegramBot();
         MyApiState apiState = session.getApiState();
         bot.createApi(apiState);
+        bot.initConfigs();
         try {
             bot.addChanelByName(chanelName);
         } finally {
